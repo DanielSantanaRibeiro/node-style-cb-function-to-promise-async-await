@@ -1,0 +1,13 @@
+{
+  "name": "promises_studies",
+  "version": "1.0.0",
+  "description": "This little project main goal is transforming a node-style asynchronous function (CB as the last argument) to a promise-style function in order to improve and fix my knowledge about promises and async/await.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Santana Ribeiro",
+  "license": "ISC"
+}
